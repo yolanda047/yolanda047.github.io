@@ -59,4 +59,4 @@ Created sensory interactive devices combining traditional Chinese medicine theor
 ## Awards & Honors
 
 - University Scholarship, Tianjin Academy of Fine Arts, 2018–2019
-- 3rd Prize, University Theme Competition, Tianjin Academy of Fine Arts, 2019
+- Collage Prize, University Theme Competition, Tianjin Academy of Fine Arts, 2019
