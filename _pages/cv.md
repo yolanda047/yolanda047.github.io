@@ -15,27 +15,15 @@ redirect_from:
 ## Education
 
 **HKUST (Guangzhou)** — PhD in Computational Media and Arts
-*2025 – 2029*
+*2025 – present
 
 **The Glasgow School of Art (GSA)** — MSc in Serious Games and Virtual Reality
-*2022 – 2023 · GPA: 14/22*
+*2022 – 2023 
 Courses: Serious Games Development, HCI, VR and AR, Serious Game Design and Implementation
 
 **Tianjin Academy of Fine Arts (TAFA)** — BA in Digital Media Art
-*2018 – 2022 · GPA: 3.3/4.0*
+*2018 – 2022 
 Courses: 3D Animation, Interactive Narrative Multimedia Development, New Media Artistic Creativity
-
----
-
-## Research Experience
-
-**VR Educational Game for ADHD Awareness**
-*Supervisor: Prof. Daisy Abbott · Aug 2023 · GSA, UK*
-Developed a VR educational game in Unity with Oculus Quest 2 to simulate daily difficulties faced by ADHD patients.
-
-**Healing Installations Using Audiovisual Elements and User Participation**
-*Supervisor: Prof. Dong Han · Jun 2022 · TAFA, China*
-Created sensory interactive devices combining traditional Chinese medicine theory with digital technology for stress relief.
 
 ---
 
@@ -54,8 +42,6 @@ Created sensory interactive devices combining traditional Chinese medicine theor
 - **Languages:** Mandarin (native), English (fluent), Japanese (fluent), Spanish (basic)
 
 ---
-
-## Awards & Honors
 
 ## Awards & Honors
 
