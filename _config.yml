@@ -32,15 +32,13 @@ author:
   linkedin         : "yufei-zhao-1a13b1238"
   
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Yufei Zhao"
+  pronouns         : "she/her"
+  bio              : "PhD Researcher in Computational Media and Arts @ HKUST(GZ). HCI · Serious Games · Cultural Heritage Technology · Immersive Narrative"
+  location         : "Guangzhou, China"
+  employer         : "HKUST (Guangzhou)"
+  email            : "yzhao082@connect.hkust-gz.edu.cn"
 
   # Academic websites
   academia         : # URL
