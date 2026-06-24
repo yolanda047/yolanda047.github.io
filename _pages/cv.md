@@ -9,56 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[📄 Download PDF Version](../files/YufeiZhao_CV.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**HKUST (Guangzhou)** — PhD in Computational Media and Arts
+*2025 – 2029*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**The Glasgow School of Art (GSA)** — MSc in Serious Games and Virtual Reality
+*2022 – 2023 · GPA: 14/22*
+Courses: Serious Games Development, HCI, VR and AR, Serious Game Design and Implementation
+
+**Tianjin Academy of Fine Arts (TAFA)** — BA in Digital Media Art
+*2018 – 2022 · GPA: 3.3/4.0*
+Courses: 3D Animation, Interactive Narrative Multimedia Development, New Media Artistic Creativity
+
+---
+
+## Research Experience
+
+**VR Educational Game for ADHD Awareness**
+*Supervisor: Prof. Daisy Abbott · Aug 2023 · GSA, UK*
+Developed a VR educational game in Unity with Oculus Quest 2 to simulate daily difficulties faced by ADHD patients.
+
+**Healing Installations Using Audiovisual Elements and User Participation**
+*Supervisor: Prof. Dong Han · Jun 2022 · TAFA, China*
+Created sensory interactive devices combining traditional Chinese medicine theory with digital technology for stress relief.
+
+---
+
+## Publications
+
+*(Coming soon)*
+
+---
+
+## Skills
+
+- **Game Development:** Unity3D, Unity2D
+- **VR/AR:** SteamVR, Oculus Integration SDK
+- **UI/UX Design:** Figma, Illustrator
+- **Creative Tools:** TouchDesigner, Blender, 3DMax, C4D, After Effects, Premiere
+- **Languages:** Mandarin (native), English (fluent), Japanese (fluent), Spanish (basic)
+
+---
+
+## Awards & Honors
+
+- University Scholarship, Tianjin Academy of Fine Arts, 2018–2019
+- 3rd Prize, University Theme Competition, Tianjin Academy of Fine Arts, 2019
