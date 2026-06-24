@@ -35,8 +35,7 @@ Courses: 3D Animation, Interactive Narrative Multimedia Development, New Media A
 
 ## Skills
 
-- **Game Development:** Unity3D, Unity2D
-- **VR/AR:** SteamVR, Oculus Integration SDK
+- **Game Development:** Unity3D, Unity2D，VR & AR
 - **UI/UX Design:** Figma, Illustrator
 - **Creative Tools:** TouchDesigner, Blender, 3DMax, C4D, After Effects, Premiere
 - **Languages:** Mandarin (native), English (fluent), Japanese (fluent), Spanish (basic)
