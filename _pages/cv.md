@@ -14,14 +14,14 @@ redirect_from:
 
 ## Education
 
-**HKUST (Guangzhou)** — PhD in Computational Media and Arts
+**HKUST (Guangzhou)**  PhD in Computational Media and Arts
 2025 – present
 
-**The Glasgow School of Art (GSA)** — MSc in Serious Games and Virtual Reality
+**The Glasgow School of Art (GSA)**  MSc in Serious Games and Virtual Reality
 2022 – 2023 
 
 
-**Tianjin Academy of Fine Arts (TAFA)** — BA in Digital Media Art
+**Tianjin Academy of Fine Arts (TAFA)**  BA in Digital Media Art
 2018 – 2022 
 
 
