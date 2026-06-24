@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 Download PDF Version](../files/YufeiZhao_CV.pdf)
 
 ---
 
@@ -58,5 +57,8 @@ Created sensory interactive devices combining traditional Chinese medicine theor
 
 ## Awards & Honors
 
+## Awards & Honors
+
+- National Second Prize, National College VR Innovation Design Competition, 2024
 - University Scholarship, Tianjin Academy of Fine Arts, 2018–2019
-- Collage Prize, University Theme Competition, Tianjin Academy of Fine Arts, 2019
+- College Award, University Theme Competition, Tianjin Academy of Fine Arts, 2019
